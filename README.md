@@ -1,10 +1,8 @@
-## Cum Laude Applied/Computational Mathematics B.S. & Computer Science minor.
+## B.S. Cum Laude Applied/Computational Mathematics & Computer Science minor.
 
-### Michigan Technological University 2021
+### Michigan Technological University Class of 2021, Seeking a Junior Software Development Oppurtunity
 
 ----
-
-__Seeking a Junior Software Development Oppurtunity__
 
 I am a recent addition to the github community and many of my repositories are previous projects.
 

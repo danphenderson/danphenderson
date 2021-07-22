@@ -1,16 +1,13 @@
-### Hi there 👋
+## Cum Laude Applied/Computational Mathematics B.S. & Computer Science minor.
 
-<!--
-**danphenderson/danphenderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Michigan Technological University 2021
 
-Here are some ideas to get you started:
+-----
+__Seeking a Junior Software Development Oppurtunity__
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a recent addition to the github community and many of my repositories are previous projects.
+----
+
+
+Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians.
+* *Edsger W. Dijkstra*

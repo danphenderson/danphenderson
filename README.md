@@ -2,10 +2,12 @@
 
 ### Michigan Technological University 2021
 
------
+----
+
 __Seeking a Junior Software Development Oppurtunity__
 
 I am a recent addition to the github community and many of my repositories are previous projects.
+
 ----
 
 

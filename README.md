@@ -1,4 +1,4 @@
-## Cum Laude Applied/Computational Mathematics B.S. & Computer Science Minor.
+## B.S. Cum Laude Applied/Computational Mathematics & Computer Science Minor.
 
 ### Michigan Technological University Class of 2021.
 

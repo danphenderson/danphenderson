@@ -1,6 +1,9 @@
-## B.S. Cum Laude Applied/Computational Mathematics & Computer Science minor.
+## Cum Laude Applied/Computational Mathematics B.S. & Computer Science Minor.
 
-### Michigan Technological University Class of 2021, Seeking a Junior Software Development Oppurtunity
+### Michigan Technological University Class of 2021.
+
+### Seeking a Junior Software Development or Data Science Oppurtunity.
+
 
 ----
 

@@ -5,6 +5,6 @@ __Currently seeking a Junior Software Development or Data Science Opportunity.__
 
 ----
 
-I am a recent addition to the GitHub community, and I look forward to contributing to the open source community!
+I am a recent addition to the GitHub community, and I look forward to contributing!
 
 Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians. - *Edsger W. Dijkstra*

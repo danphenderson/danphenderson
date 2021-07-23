@@ -7,6 +7,5 @@
 
 I am a recent addition to the GitHub community, and many of my repositories are previous projects.
 
-----
 
 Programming is one of the most difficult branches of applied mathematics; the poorer mathematicians had better remain pure mathematicians. - *Edsger W. Dijkstra*

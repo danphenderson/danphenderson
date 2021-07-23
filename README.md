@@ -2,12 +2,12 @@
 
 ### Michigan Technological University Class of 2021.
 
-### Seeking a Junior Software Development or Data Science Oppurtunity.
+### Seeking a Junior Software Development or Data Science Opportunity.
 
 
 ----
 
-I am a recent addition to the github community and many of my repositories are previous projects.
+I am a recent addition to the GitHub community, and many of my repositories are previous projects.
 
 ----
 
